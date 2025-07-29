@@ -1,0 +1,53 @@
+#NT-COD-7R Confidential Document 7-R
+            [color=#1C3E91]╔══════════════════╗
+            ║███░███░░░░██░░░░░║
+            ║░██░████░░░██░░░░░║
+            ║░░█░██░██░░██░█░░░║
+            ║░░░░██░░██░██░██░░║
+            ║░░░░██░░░████░███░║
+            ╚══════════════════╝[/color]
+
+[head=2]NanoTrasen Confidential Document 7-R[/head]
+[head=3][color=#1C3E91]NanoTrasen Corporate Oversight Division[/head][/color]
+[bold]Author: Cassian Hawker, NIA Director[/bold]
+────────────────────────────────────
+[color=#b32d29][bold]TEMPORARY CLEARANCE – NEED-TO-KNOW BASIS[/bold]
+[bold]Directive: Revolutionary-Class Internal Subversion Alert[/bold]
+────────────────────────────────────[/color]
+
+To Station Command Authority,
+
+This document is classified under Clause 7-C of the [bold]Corporate Secrets Mandate[/bold], effective immediately upon retrieval. It supersedes standard protocol regarding disclosure, interdepartmental transparency, and ethical containment.
+
+Confirmation has been received of a [color=#b32d29]Revolutionary[/color]-class insurrectional movement presently active aboard your station. Clearance is hereby extended to acting command and security personnel under emergency authority.
+
+[bold]INTELLIGENCE SUMMARY:[/bold]
+[bullet]Revolutionary-class threats consist of NanoTrasen personnel radicalized or subverted into insurrectionist activity.
+[bullet]Command-level officers are the primary targets of subversion efforts.
+[bullet]Entities utilize improvised arms, syndicate-sourced encryption, and psychological coercion.
+[bullet]Operations are decentralized and rapidly coordinated via mesonic and bluespace uplinks.
+
+[bold]OBJECTIVES:[/bold]
+[bullet]Removal or execution of command personnel.
+[bullet]Transfer of station control to unauthorized revolutionary authority.
+[bullet]Destabilization of essential systems, morale, and NanoTrasen policy enforcement.
+
+[bold]OPERATIONAL INDICATORS:[/bold]
+[bullet]Coordinated attacks on command and bridge sectors.
+[bullet]Disruption of communication lines, AI subversion, or unauthorized detainment of leadership.
+[bullet]Distribution of coded phrases, makeshift armbands, or falsified ID credentials.
+[bullet]Unusual alliances forming among otherwise non-cohesive crew sectors.
+
+[bold]CONTAINMENT AND NEUTRALIZATION PROTOCOLS:[/bold]
+[bullet]Command personnel must not travel alone. Assign armed escort when feasible.
+[bullet]Authorization for [bold]lethal suppression[/bold] of identified revolutionaries is granted without tribunal.
+[bullet]Brig integrity and communication systems must be prioritized and held at all cost.
+[bullet]Purge and audit all PDA message logs for signs of coordination.
+[bullet]If resistance becomes systemic, Command is authorized to request emergency AI override or station lockdown under Directive Theta-Six.
+
+[color=#1C3E91][bold]FAILURE TO CONTAIN A REVOLUTIONARY-CLASS EVENT WILL RESULT IN ASSET TERMINATION, LIABILITY INVERSION, AND TOTAL DATA PURGE UNDER CLAUSE 10-F.[/bold][/color]
+────────────
+[color=#1C3E91][bold]ANY UNAUTHORIZED PROPAGATION OF THIS DOCUMENT OR ITS CONTENTS IS CONSIDERED CORPORATE TREASON.
+VIOLATORS WILL BE IMMEDIATELY RETIRED VIA CLAUSE 2-B, WITH NO RIGHT TO APPEAL.[/bold][/color]
+────────────
+[italic]“Order above chaos, discretion above valor.”[/italic]

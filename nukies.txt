@@ -1,0 +1,46 @@
+#NT-COD-7N Confidential Document 7-N
+            [color=#1C3E91]╔══════════════════╗
+            ║███░███░░░░██░░░░░║
+            ║░██░████░░░██░░░░░║
+            ║░░█░██░██░░██░█░░░║
+            ║░░░░██░░██░██░██░░║
+            ║░░░░██░░░████░███░║
+            ╚══════════════════╝[/color]
+
+[head=2]NanoTrasen Confidential Document 7-N[/head]
+[head=3][color=#1C3E91]NanoTrasen Corporate Oversight Division[/head][/color]
+[bold]Author: Cassian Hawker, NIA Director[/bold]
+────────────────────────────────────
+[color=#b31c1c][bold]TEMPORARY CLEARANCE – NEED-TO-KNOW BASIS[/bold]
+[bold]Directive: Nuclear-Class Operative Deployment Alert[/bold]
+────────────────────────────────────[/color]
+
+To Station Command Authority,
+
+This document is classified under Clause 7-N of the [bold]Corporate Secrets Mandate[/bold]. Disclosure is authorized strictly under preemptive engagement scenarios involving confirmed or imminent contact with syndicate-aligned [color=#3139b3]Nuclear-Class Operatives[/color].
+
+Confirmation has been received of a [color=#b31c1c]Nuclear Operative[/color]-class hostile infiltration force presently active aboard your station. Clearance is hereby extended to acting command and security personnel under emergency authority.
+
+[bold]INTELLIGENCE SUMMARY:[/bold]
+[bullet][color=#3139b3]Nuclear Operatives[/color] are elite paramilitary agents deployed by hostile syndicate assets with the intent to destroy NanoTrasen property via atomic detonation.
+[bullet]Deploy in small units via capsule dropship, often disguised until arrival.
+[bullet]Extremely well-armed with illegal energy weapons, modified explosives, and prohibited cybernetic enhancements.
+[bullet]Command structure is decentralized; operatives act with lethal autonomy.
+
+[bold]THREAT ASSESSMENT:[/bold]
+[bullet]Direct threat to station integrity and crew survival.
+[bullet]In possession of an armed, unauthorized nuclear warhead (designated [bold]Theta-9[/bold]).
+[bullet]Will attempt to reach or breach the station’s nuclear authentication terminal.
+[bullet]Civilians are considered collateral by all sides. No hostages should be assumed recoverable.
+
+[bold]COUNTERMEASURES PROTOCOL DESIGNATION: 7N-RHO-OBLIVION[/bold]
+[bullet]Immediately seal and reinforce all access points to the AI core, bridge, and nuclear terminal.
+[bullet]Engineer tactical chokepoints. Weaponize environment where possible.
+[bullet]Do not engage alone. Squad tactics and brute firepower are required.
+[bullet]If the nuclear device is activated, a failsafe transmission code ([bold]Ragnar Lock[/bold]) is stored in the NTR’s emergency vault.
+[bullet]Under no circumstances may the device be allowed to detonate within habitable NanoTrasen territory.
+────────────
+[color=#1C3E91][bold]ANY UNAUTHORIZED PROPAGATION OF THIS DOCUMENT OR ITS CONTENTS IS CONSIDERED CORPORATE TREASON.
+VIOLATORS WILL BE IMMEDIATELY RETIRED VIA CLAUSE 2-B, WITH NO RIGHT TO APPEAL.[/bold][/color]
+────────────
+[italic]“Order above chaos, discretion above valor.”[/italic]
