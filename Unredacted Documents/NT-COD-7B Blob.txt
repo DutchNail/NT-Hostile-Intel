@@ -1,0 +1,48 @@
+#NT-COD-7B Confidential Document 7-B
+            [color=#1C3E91]╔══════════════════╗
+            ║███░███░░░░██░░░░░║
+            ║░██░████░░░██░░░░░║
+            ║░░█░██░██░░██░█░░░║
+            ║░░░░██░░██░██░██░░║
+            ║░░░░██░░░████░███░║
+            ╚══════════════════╝[/color]
+
+[head=2]NanoTrasen Confidential Document 7-B[/head]
+[head=3][color=#1C3E91]NanoTrasen Corporate Oversight Division[/color][/head]
+[bold]Author: Cassian Hawker, NIA Director[/bold]
+────────────────────────────────────
+[color=#4eb36b][bold]CLASSIFIED – NON-TERRAN AGENT ENCOUNTER[/bold]
+[bold]Directive: Blob-Class Expansion Protocol – Sector Contamination[/bold]
+────────────────────────────────────[/color]
+
+To All Command and Security Assets,
+
+This document is classified under Clause 7-C of the [bold]Corporate Secrets Mandate[/bold], effective immediately upon retrieval. It supersedes standard protocol regarding disclosure, interdepartmental transparency, and ethical containment.
+
+Confirmation has been received of a [color=#4eb36b]Blob[/color]-class self-replicating biomass presently active aboard your station. Clearance is hereby extended to acting command and security personnel under emergency authority.
+
+[bold]ENTITY PROFILE:[/bold]
+[bullet]Spontaneous emergence via bluespace rupture or failed containment crate.
+[bullet]Highly adaptive; exhibits resistance to conventional ballistic and thermal weapons.
+[bullet]Substructures generate lesser entities (e.g. spores, nodes, cores) which support macro-expansion.
+[bullet]Not sapient—no negotiation or compromise is possible.
+
+[bold]ECOLOGICAL DAMAGE:[/bold]
+[bullet]Assimilates materials (plasteel, carbon, biomass) for growth.
+[bullet]Disrupts APCs, powernets, and air integrity.
+[bullet]Rapid growth rate—complete deck absorption in under ten minutes recorded.
+
+[bold]CONTAINMENT DIRECTIVE:[/bold]
+[bullet]Prioritize location of central core via crew tracker or visual cue (bright green).
+[bullet]Deploy flamethrowers, emitters, and anti-blob munitions.
+[bullet]Station nanite systems should be disabled to avoid self-assimilation.
+[bullet]Evacuate civilians from growth zone and initiate hull breaches to slow spread.
+
+[color=#4eb36b][bold]FAILURE TO CONTAIN A BLOB-CLASS ENTITY IS A LEVEL-ONE BIOLOGICAL FAILURE.
+EXTERMINATION OF ALL ORGANIC LIFE MAY RESULT.[/bold][/color]
+
+────────────
+[color=#1C3E91][bold]ANY UNAUTHORIZED PROPAGATION OF THIS DOCUMENT OR ITS CONTENTS IS CONSIDERED CORPORATE TREASON.
+VIOLATORS WILL BE IMMEDIATELY RETIRED VIA CLAUSE 2-B, WITH NO RIGHT TO APPEAL.[/bold][/color]
+────────────
+[italic]“Order above chaos, discretion above valor.”[/italic]
