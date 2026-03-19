@@ -29,15 +29,6 @@ Each intelligence brief follows the format mandated under **NT-COD-7C**, includi
 - Containment/Neutralization Orders
 - Legal Disclosure Warning
 
-The documents begin with:
-
-```text
-To Station Command Authority,
-
-This document is classified under Clause 7-C of the Corporate Secrets Mandate, effective immediately upon retrieval. It supersedes standard protocol regarding disclosure, interdepartmental transparency, and ethical containment.
-
-Confirmation has been received of a [CLASS]-class [description] presently active aboard your station. Clearance is hereby extended to acting command and security personnel under emergency authority.
-```
 
 ---
 
@@ -67,7 +58,7 @@ These documents are intended for **in-universe RP enhancement** in games such as
 - **Server Admins or Loremasters** introducing events
 - **Roleplayers** seeking immersive corporate documentation
 
-Each `.txt` or `.md` file may be copy-pasted into faxes, comms terminals, announcements, or internal documents.
+Each `.txt` or `.md` file may be copy-pasted into faxes or internal documents.
 
 ---
 
@@ -77,7 +68,7 @@ This repository is strictly thematic and for entertainment purposes. Contributio
 
 If you'd like to expand on a category, submit new entries, or improve formatting — feel free to open a pull request, but remember:
 
-> **All documents must be signed with a department head, director, or Hawker family representative.**
+> **All documents must be signed.**
 
 ---
 
